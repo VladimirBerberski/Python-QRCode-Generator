@@ -30,7 +30,7 @@ For Debian-based systems (Ubuntu, etc.):
 For Windows:
 Tkinter is included in the standard Python distribution.
 
-##Usage
+## Usage
   1.Run the script: python your_script_name.py
   
   2.Enter the data for the QR code in the provided input field.
@@ -42,11 +42,11 @@ Tkinter is included in the standard Python distribution.
   5.The generated QR code will be displayed on the GUI, and you will be prompted to save it as a PNG file.
 
 
-##GUI Components :
+## GUI Components :
 Data: Text input for the data to be encoded in the QR code.
 Logo: File path input and button to select an optional logo image.
 Generate QR code: Button to generate and display the QR code.
 Image Display: Label widget that displays the generated QR code.
 
-##License
+## License
 This project is open-source and available under the MIT License.
