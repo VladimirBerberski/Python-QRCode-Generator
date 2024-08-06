@@ -1,4 +1,3 @@
-# Python-QRCode-Generator 
 # QR Code Generator with Logo
 
 This Python application allows users to generate QR codes with optional embedded logos using a graphical user interface (GUI). The QR codes can be saved as images in PNG format.
